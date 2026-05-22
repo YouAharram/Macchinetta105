@@ -1,0 +1,16 @@
+150.217.51.105:8006 PER ACCEDERE
+
+username root
+password admin105dhn
+
+
+maccWAKT$03lab
+
+
+10.105.0.110/24
+10.105.0.1
+
+
+
+sudo -i -u postgres
+psql
